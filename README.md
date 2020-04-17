@@ -173,6 +173,10 @@ This brief tutorial shows **where some of the most used and quoted sysctl/networ
 
 ![tcp finite state machine](https://upload.wikimedia.org/wikipedia/commons/a/a2/Tcp_state_diagram_fixed.svg "A graphic representation of tcp tcp finite state machine")
 Source: https://commons.wikimedia.org/wiki/File:Tcp_state_diagram_fixed_new.svg
+# Interrupt Coalescing
+1. Different parameters in `ethtool` [link](https://kb.informatica.com/faq/5/Pages/80204.aspx)
+2. Usage of `ethtool` [link](https://www.jishuchi.com/read/linux-command-collection/1232)
+3. Tune the Linux Networking Stack [link](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/#monitoring-network-data-arrival)
 
 # Network tools for testing and monitoring
 
