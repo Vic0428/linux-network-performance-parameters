@@ -177,6 +177,12 @@ Source: https://commons.wikimedia.org/wiki/File:Tcp_state_diagram_fixed_new.svg
 1. Different parameters in `ethtool` [link](https://kb.informatica.com/faq/5/Pages/80204.aspx)
 2. Usage of `ethtool` [link](https://www.jishuchi.com/read/linux-command-collection/1232)
 3. Tune the Linux Networking Stack [link](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/#monitoring-network-data-arrival)
+4. SMP IRQ affinity [link](https://www.kernel.org/doc/Documentation/IRQ-affinity.txt)
+5. Red Hat Interrupts and IRQ Tuning [link](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/performance_tuning_guide/s-cpu-irq)
+
+# Socket
+1. A guide to use raw socket [link](https://opensourceforu.com/2015/03/a-guide-to-using-raw-sockets/)
+2. Linux manual for packet socket [link](http://man7.org/linux/man-pages/man7/packet.7.html)
 
 # Network tools for testing and monitoring
 
