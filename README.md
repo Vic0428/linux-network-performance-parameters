@@ -179,6 +179,12 @@ Source: https://commons.wikimedia.org/wiki/File:Tcp_state_diagram_fixed_new.svg
 3. Tune the Linux Networking Stack [link](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/#monitoring-network-data-arrival)
 4. SMP IRQ affinity [link](https://www.kernel.org/doc/Documentation/IRQ-affinity.txt)
 5. Red Hat Interrupts and IRQ Tuning [link](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/performance_tuning_guide/s-cpu-irq)
+6. Software interrupts and realtime [link](https://lwn.net/Articles/520076/)
+7. Best tutorial from receiving data perspective [link](http://arthurchiao.art/blog/tuning-stack-rx-zh/)
+8. Best tutorial from sending data perspective [link](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/)
+9. Illustrated Guide of receiving data perspective [link](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/)
+
+
 
 # Socket
 1. A guide to use raw socket [link](https://opensourceforu.com/2015/03/a-guide-to-using-raw-sockets/)
