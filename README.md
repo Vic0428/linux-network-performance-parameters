@@ -183,7 +183,10 @@ Source: https://commons.wikimedia.org/wiki/File:Tcp_state_diagram_fixed_new.svg
 7. Best tutorial from receiving data perspective [link](http://arthurchiao.art/blog/tuning-stack-rx-zh/)
 8. Best tutorial from sending data perspective [link](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/)
 9. Illustrated Guide of receiving data perspective [link](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/)
-
+10. Some useful material in Chinese
+    - High CPU Usage in NIC softirq [link](http://www.simlinux.com/2017/02/28/net-softirq.html)
+    - Softirq in Linux [link](http://blog.leanote.com/post/gaunthan/Linux%E4%B8%AD%E7%9A%84%E8%BD%AF%E4%B8%AD%E6%96%AD%E6%9C%BA%E5%88%B6)
+    - Softirq in Redis [link](https://tech.meituan.com/2018/03/16/redis-high-concurrency-optimization.html)
 
 
 # Socket
