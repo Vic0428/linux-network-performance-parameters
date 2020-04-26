@@ -187,7 +187,8 @@ Source: https://commons.wikimedia.org/wiki/File:Tcp_state_diagram_fixed_new.svg
     - High CPU Usage in NIC softirq [link](http://www.simlinux.com/2017/02/28/net-softirq.html)
     - Softirq in Linux [link](http://blog.leanote.com/post/gaunthan/Linux%E4%B8%AD%E7%9A%84%E8%BD%AF%E4%B8%AD%E6%96%AD%E6%9C%BA%E5%88%B6)
     - Softirq in Redis [link](https://tech.meituan.com/2018/03/16/redis-high-concurrency-optimization.html)
-
+11. Optimizing Latency and CPU Load in Packet Processing System (Paper from TUM) [link](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/SPECTS15NAPIoptimization.pdf)
+12. Performance Analysis [link](https://eprints.kfupm.edu.sa/id/eprint/615/1/comdcom_isr.pdf)
 
 # Socket
 1. A guide to use raw socket [link](https://opensourceforu.com/2015/03/a-guide-to-using-raw-sockets/)
